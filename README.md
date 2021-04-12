@@ -1,2 +1,2 @@
 # clippy
-A pastebin built using flask and fauna
+A pastebin built using flask and faunaDB
